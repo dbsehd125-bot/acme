@@ -42,11 +42,11 @@ table {
 	border-spacing: 0;
 }
 a{
-  text-decoration: none;
-  color:indianred;
+  text-decoration:none;
+  color:inherit;
 }
 img{
-  vertical-align: top;
+  vertical-align:top;
 }
 button, input{
   background: none;
